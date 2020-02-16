@@ -2,6 +2,16 @@
 
 https://pytorch.org/
 
+https://github.com/pytorch
+
+https://github.com/pytorch/examples
+
+https://github.com/pytorch/tutorials
+
+https://github.com/pytorch/vision
+
+https://github.com/pytorch/text
+
 ## 目录
 
 #### 1_DataLoader和Dataset 
