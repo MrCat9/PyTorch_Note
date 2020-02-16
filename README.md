@@ -28,7 +28,7 @@ backward()函数 https://blog.csdn.net/huyaoyu/article/details/81059315
 
 #### 4_optimizer.step()和scheduler.step()
 
-Pytorch optimizer.step() 和loss.backward()和scheduler.step()的关系与区别 https://blog.csdn.net/xiaoxifei/article/details/87797935
+optimizer.step()和loss.backward()和scheduler.step()的关系与区别 https://blog.csdn.net/xiaoxifei/article/details/87797935
 
 optimizer.step()和scheduler.step() https://blog.csdn.net/qq_20622615/article/details/83150963
 
