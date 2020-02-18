@@ -32,3 +32,7 @@ optimizer.step()和loss.backward()和scheduler.step()的关系与区别 https://
 
 optimizer.step()和scheduler.step() https://blog.csdn.net/qq_20622615/article/details/83150963
 
+#### 5_torchvision的transforms.Normalize
+
+mnist手写体数据集里的标准化参数transforms.Normalize((0.1307,), (0.3081,)) https://blog.csdn.net/u014453898/article/details/90700904
+
