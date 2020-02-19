@@ -36,3 +36,6 @@ optimizer.step()和scheduler.step() https://blog.csdn.net/qq_20622615/article/de
 
 mnist手写体数据集里的标准化参数transforms.Normalize((0.1307,), (0.3081,)) https://blog.csdn.net/u014453898/article/details/90700904
 
+#### 6_划分数据集(random_split)
+
+Pytorch划分数据集的方法 https://www.cnblogs.com/marsggbo/p/10496696.html
