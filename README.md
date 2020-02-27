@@ -64,4 +64,7 @@ https://blog.csdn.net/LXYTSOS/article/details/90639524
 
 https://blog.csdn.net/lscelory/article/details/81482586
 
+#### 8_Pytorch训练过程中Loss为负值的问题及其解决方案
+
+https://blog.csdn.net/weixin_42214565/article/details/102381380
 
