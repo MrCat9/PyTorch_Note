@@ -58,4 +58,10 @@ mnist手写体数据集里的标准化参数transforms.Normalize((0.1307,), (0.3
 
 Pytorch划分数据集的方法 https://www.cnblogs.com/marsggbo/p/10496696.html
 
-#### 7_
+#### 7_模型保存与加载
+
+https://blog.csdn.net/LXYTSOS/article/details/90639524
+
+https://blog.csdn.net/lscelory/article/details/81482586
+
+
